@@ -1,2 +1,4 @@
-# ifts19-dsoo-projects
-Proyectos de Desarrollo de Software Orientado a Objetos
+# Proyectos de Desarrollo de Software Orientado a Objetos
+
+## Semana #1
+- (Ejercicio 1)[./w1e1]
