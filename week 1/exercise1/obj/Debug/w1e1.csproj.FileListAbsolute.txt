@@ -1,0 +1,8 @@
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\obj\Debug\w1e1.csproj.AssemblyReference.cache
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\obj\Debug\w1e1.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\bin\Debug\w1e1.exe.config
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\bin\Debug\w1e1.exe
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\bin\Debug\w1e1.pdb
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\obj\Debug\w1e1.exe
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\obj\Debug\w1e1.pdb
+C:\Users\Jorge\ifts19-dsoo-projects\w1e1\obj\Debug\w1e1.exe.config
