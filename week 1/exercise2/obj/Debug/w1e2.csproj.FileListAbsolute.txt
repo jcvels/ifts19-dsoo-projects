@@ -1,7 +1,0 @@
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\bin\Debug\w1e2.exe.config
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\bin\Debug\w1e2.exe
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\bin\Debug\w1e2.pdb
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\obj\Debug\w1e2.csproj.AssemblyReference.cache
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\obj\Debug\w1e2.csproj.CoreCompileInputs.cache
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\obj\Debug\w1e2.exe
-C:\Users\Jorge\ifts19-dsoo-projects\w1e2\obj\Debug\w1e2.pdb
