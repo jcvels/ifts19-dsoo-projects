@@ -27,13 +27,13 @@ Con el objetivo de programar una experiencia de visualización óptima, se han d
 - `cambiarEstado():void` Si el televisor se encontraba encendido entonces se debe apagar, y viceversa.
 
 ## Se pide:
-- Modelar la soluciȯn en UML
-- Realizar la implementación de cada método en c#. 
-- Realizar los constructores de las siguientes clases:
+- [X] Modelar la soluciȯn en UML
+- [ ] Realizar la implementación de cada método en c#. 
+- [ ] Realizar los constructores de las siguientes clases:
 	- Persona.
 	- Televisor.
 	- Domicilio.
-- El método Main de la clase Test que instancie lo siguiente y luego lo muestre:
+- [ ] El método Main de la clase Test que instancie lo siguiente y luego lo muestre:
 	- Un televisor que le pertenece a Facundo y a Camila
 	- Ambos viven juntos en Jonte 5299, Monte Castro
 	- Que tanto Facundo como Camila, en distintos momentos, puedan realizar diferentes operaciones sobre mismo televisor (tener siempre en cuenta el estado del televisor por ejemplo, no se puede cambiar de canal si se encuentra apagado).
