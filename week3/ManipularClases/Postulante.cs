@@ -20,6 +20,26 @@ namespace ManipularClases
             this.tipo = tipo;
             this.documento = documento;
         }
+        public string Nombre
+        {
+            set { this.nombre = value; }
+            get { return this.nombre; }
+        }
+        public string Apellido
+        {
+            set { this.apellido = value; }
+            get { return this.apellido; }
+        }
+        public string Tipo
+        {
+            set { this.tipo = value; }
+            get { return this.tipo; }
+        }
+        public int Documento
+        {
+            set { this.documento = value; }
+            get { return this.documento; }
+        }
         public string toString()
         {
             return "Nombre: " + this.nombre + "\nApellido: " + this.apellido + "\nDocumento: " + this.documento + " [ " + this.tipo +" ]";
