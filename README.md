@@ -20,4 +20,32 @@ Se deberá crear un método competir() el cual recibirá otro superhéroe como p
 
 Para triunfar un superhéroe debe superar al otro en al menos 2 de los 3 ítems.
 
-- [Solucion](./week2/Superheroes)
+[ver código](./week2/Superheroes)
+
+### Primer Proyecto en entorno visual
+Teniendo en cuenta la tabla que se detalla a continuación, construí la primera Solución en el entorno visual. El nombre de la Solución es PrimerProyecto.
+
+| Control    | Prefijo| Propiedad     | Valor                    |
+|------------|--------|---------------|--------------------------|
+| Formulario | frm    | Name          | frmPrincipal             |
+| Formulario | frm    | Text          | PRIMER PROYECTO          |
+| Formulario | frm    | StartPosition | CenterScreen             |
+| Formulario | frm    | BackColor     | 192; 255; 192 (verde claro) |
+| Label1     | lbl    | Name          | lblNombre                |
+| Label1     | lbl    | Text          | Nombre                   |
+| Label2     | lbl    | Name          | lblApellido              |
+| Label2     | lbl    | Text          | Apellido                 |
+| Label3     | lbl    | Name          | lblDocumento             |
+| Label3     | lbl    | Text          | Documento                |
+| TextBox1   | txt    | Name          | txtNombre                |
+| TextBox1   | txt    | Text          | vacío                    |
+| TextBox2   | txt    | Name          | txtApellido              |
+| TextBox2   | txt    | Text          | vacío                    |
+| TextBox3   | txt    | Name          | txtDocumento             |
+| TextBox3   | txt    | Text          | vacío                    |
+| Button1    | btn    | Name          | btnIngresar              |
+| Button1    | btn    | Text          | INGRESAR                 |
+| Button2    | btn    | Name          | btnLimpiar               |
+| Button2    | btn    | Text          | LIMPIAR                  |
+
+[ver código](./week2/PrimerProyecto)
