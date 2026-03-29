@@ -15,5 +15,5 @@
 
 ## Semana #3
 
-### Practica Formativa 
-[Práctica Formativa](./week3/)
+## Practicas Formativa 
+- [Práctica Formativa #1](./pfs/pf1/readme.md)
