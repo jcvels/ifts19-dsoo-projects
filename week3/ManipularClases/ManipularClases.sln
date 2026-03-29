@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipularClases", "ManipularClases.csproj", "{664973AF-D3D5-4D32-9882-2FB38239E046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664973AF-D3D5-4D32-9882-2FB38239E046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664973AF-D3D5-4D32-9882-2FB38239E046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664973AF-D3D5-4D32-9882-2FB38239E046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664973AF-D3D5-4D32-9882-2FB38239E046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E90CDA-D91C-44A9-974A-F8264E0B7D61}
+	EndGlobalSection
+EndGlobal
