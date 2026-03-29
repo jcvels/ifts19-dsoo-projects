@@ -53,24 +53,32 @@ Teniendo en cuenta la tabla que se detalla a continuación, construí la primera
 | Control    | Prefijo| Propiedad     | Valor                    |
 |------------|--------|---------------|--------------------------|
 | Formulario | frm    | Name          | frmPrincipal             |
-| Formulario | frm    | Text          | PRIMER PROYECTO          |
-| Formulario | frm    | StartPosition | CenterScreen             |
-| Formulario | frm    | BackColor     | 192; 255; 192 (verde claro) |
+|  |     | Text          | PRIMER PROYECTO          |
+|  |     | StartPosition | CenterScreen             |
+|  |     | BackColor     | 192; 255; 192 (verde claro) |
 | Label1     | lbl    | Name          | lblNombre                |
-| Label1     | lbl    | Text          | Nombre                   |
+|      |     | Text          | Nombre                   |
 | Label2     | lbl    | Name          | lblApellido              |
-| Label2     | lbl    | Text          | Apellido                 |
+|      |     | Text          | Apellido                 |
 | Label3     | lbl    | Name          | lblDocumento             |
-| Label3     | lbl    | Text          | Documento                |
+|      |     | Text          | Documento                |
 | TextBox1   | txt    | Name          | txtNombre                |
-| TextBox1   | txt    | Text          | vacío                    |
+|    |     | Text          | vacío                    |
 | TextBox2   | txt    | Name          | txtApellido              |
-| TextBox2   | txt    | Text          | vacío                    |
+|    |     | Text          | vacío                    |
 | TextBox3   | txt    | Name          | txtDocumento             |
-| TextBox3   | txt    | Text          | vacío                    |
+|    |     | Text          | vacío                    |
 | Button1    | btn    | Name          | btnIngresar              |
-| Button1    | btn    | Text          | INGRESAR                 |
+|     |     | Text          | INGRESAR                 |
 | Button2    | btn    | Name          | btnLimpiar               |
-| Button2    | btn    | Text          | LIMPIAR                  |
+|     |     | Text          | LIMPIAR                  |
 
 [ver código](./week2/PrimerProyecto)
+
+### Ingreso de datos
+Ingresar los datos desde los textBox y mostrarlos en cuadro de dialogo. Usar el botón “Aceptar”.
+Tomar el ejercicio 1, pero los datos deben ser ingresados también en un cuadro de diálogo.
+
+Usando el botón “Cálculo” solicitar con un cuadro de diálogo el ingreso de dos números (es un cuadro de dialogo para cada dato) y mostrar cuál es el número más grande.  La forma de declaración, lectura de datos numéricos y uso de condicional lo viste en la semana 1 y lo ejercitaste desde el modo consola. Simplemente debes adaptarlo a este nuevo modo.
+
+[ver código](./week2/IngresoDatos)
