@@ -1,17 +1,8 @@
 # Proyectos de Desarrollo de Software Orientado a Objetos
 
 ## Semana #1
-
-### Ejercicio #1
-El precio de los productos no tiene incluido el incremento del 15% que representa la ganancia del negocio, por lo tanto, el algoritmo debe calcular el precio final a abonar por un cliente. Se ingresa el precio del producto y como resultado muestra el precio de venta.
-
-[ver código](./week1/exercise1/)
-
-### Ejercicio #2
-En el campeonato estudiantil llegan a la última etapa los participantes que superen los 80 puntos. El algoritmo pide el nombre de cada participante y la puntuación de los 3 jurados. Debe mostrar el nombre y el puntaje total de cada participante.
-> Nota: cuando se ingrese "FIN" en el nombre del participante finaliza nuestro programa.
-
-[ver código](./week1/exercise2/)
+- [Ejercicio #1](./week1/exercise1/readme.md)
+- [Ejercicio #2](./week1/exercise2/readme.md)
 
 ### Ejercicio #3
 Modifica la salida de la resolución del punto 2. Se pide mostrar un mensaje que indique si cada participante llegó a la última etapa o no.
@@ -85,3 +76,7 @@ Teniendo en cuenta la tabla que se detalla a continuación, construí la primera
 > La forma de declaración, lectura de datos numéricos y uso de condicional lo viste en la semana 1 y lo ejercitaste desde el modo consola. Simplemente debes adaptarlo a este nuevo modo.
 
 [ver código](./week2/IngresoDatos)
+
+## Semana #3
+
+[Práctica Formativa](./week3/)

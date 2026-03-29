@@ -1,0 +1,2 @@
+# Ejercicio #1
+El precio de los productos no tiene incluido el incremento del 15% que representa la ganancia del negocio, por lo tanto, el algoritmo debe calcular el precio final a abonar por un cliente. Se ingresa el precio del producto y como resultado muestra el precio de venta.
