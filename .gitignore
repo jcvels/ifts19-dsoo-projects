@@ -1,0 +1,106 @@
+# =========================
+# Build results
+# =========================
+bin/
+obj/
+out/
+
+# Ignorar en cualquier nivel
+**/bin/
+**/obj/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Rider / JetBrains
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+!packages/repositories.config
+
+# =========================
+# .NET Core
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# Publish output
+# =========================
+publish/
+
+# =========================
+# Azure / deployment
+# =========================
+*.Publish.xml
+*.pubxml
+*.azurePubxml
+
+# =========================
+# Test results
+# =========================
+TestResults/
+
+# =========================
+# Coverage
+# =========================
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+# Secrets (MUY IMPORTANTE)
+# =========================
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+# =========================
+# Resharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Dotnet tools
+# =========================
+.dotnet/
+
+# =========================
+# Node (si usás frontend)
+# =========================
+node_modules/
+dist/
+
+# =========================
+# Archivos temporales
+# =========================
+*.tmp
+*.temp
