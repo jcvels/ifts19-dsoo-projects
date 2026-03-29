@@ -1,0 +1,2 @@
+# Ejercicio #4
+Se trata de implementar un programa que sume los dígitos de un número entero no negativo de 4 dígitos. Por ejemplo, la suma de los dígitos del 3433 es 13.  Para darle un poco más de emoción, el programa no se limitará a escribir el resultado de la suma, sino que también escribirá todos los sumandos utilizados: 3 + 4 + 3 + 3 = 13.
