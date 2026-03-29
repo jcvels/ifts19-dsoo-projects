@@ -1,12 +1,37 @@
 # Proyectos de Desarrollo de Software Orientado a Objetos
 
 ## Semana #1
-- [Ejercicio 1](./week1/exercise1/Program.cs)
-- [Ejercicio 2](./week1/exercise2/Program.cs)
-- [Ejercicio 3](./week1/exercise3/Program.cs)
-- [Ejercicio 4](./week1/exercise4/Program.cs)
-- [Ejercicio 5](./week1/exercise5/Program.cs)
-- [Ejercicio 6](./week1/exercise6/Program.cs)
+
+### Ejercicio #1
+El precio de los productos no tiene incluido el incremento del 15% que representa la ganancia del negocio, por lo tanto, el algoritmo debe calcular el precio final a abonar por un cliente. Se ingresa el precio del producto y como resultado muestra el precio de venta.
+
+[ver código](./week1/exercise1/)
+
+### Ejercicio #2
+En el campeonato estudiantil llegan a la última etapa los participantes que superen los 80 puntos. El algoritmo pide el nombre de cada participante y la puntuación de los 3 jurados. Debe mostrar el nombre y el puntaje total de cada participante.
+> Nota: cuando se ingrese "FIN" en el nombre del participante finaliza nuestro programa.
+
+[ver código](./week1/exercise2/)
+
+### Ejercicio #3
+Modifica la salida de la resolución del punto 2. Se pide mostrar un mensaje que indique si cada participante llegó a la última etapa o no.
+
+[ver código](./week1/exercise3/)
+
+### Ejercicio #4
+Se trata de implementar un programa que sume los dígitos de un número entero no negativo de 4 dígitos. Por ejemplo, la suma de los dígitos del 3433 es 13.  Para darle un poco más de emoción, el programa no se limitará a escribir el resultado de la suma, sino que también escribirá todos los sumandos utilizados: 3 + 4 + 3 + 3 = 13.
+
+[ver código](./week1/exercise4/)
+
+### Ejercicio #5
+Resolver la consiga del punto 4 con la particularidad que el número puede tener cualquier cantidad de dígitos, es decir, puede ser un número de dos dígitos como un número de 6 dígitos. Tomá la codificación anterior e introducí los cambios que sean necesarios.
+
+[ver código](./week1/exercise5/)
+
+### Ejercicio #6
+Tres personas aportan diferente capital a una sociedad y desean saber el valor total aportado y qué porcentaje aportó cada una (indicando nombre y porcentaje). Para ello, solicitar la carga por teclado del nombre de cada socio, su capital aportado y a partir de esto calcular e informar lo requerido previamente .
+
+[ver código](./week1/exercise6/)
 
 ## Semana #2
 
