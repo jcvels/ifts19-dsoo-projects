@@ -14,6 +14,7 @@
 - [Ingreso de datos](./week2/IngresoDatos/readme.md)
 
 ## Semana #3
+- [Manipular clases](./week3/ManipularClases/readme.md)
 
 ## Practicas Formativa 
 - [Práctica Formativa #1](./pfs/pf1/readme.md)
