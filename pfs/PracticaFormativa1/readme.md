@@ -28,11 +28,11 @@ Con el objetivo de programar una experiencia de visualización óptima, se han d
 
 ## Se pide:
 - [X] Modelar la soluciȯn en UML
-- [ ] Realizar la implementación de cada método en c#. 
-- [ ] Realizar los constructores de las siguientes clases:
-	- Persona.
-	- Televisor.
-	- Domicilio.
+- [X] Realizar la implementación de cada método en c#. 
+- [X] Realizar los constructores de las siguientes clases:
+	- [X] Persona.
+	- [X] Televisor.
+	- [X] Domicilio.
 - [ ] El método Main de la clase Test que instancie lo siguiente y luego lo muestre:
 	- Un televisor que le pertenece a Facundo y a Camila
 	- Ambos viven juntos en Jonte 5299, Monte Castro
