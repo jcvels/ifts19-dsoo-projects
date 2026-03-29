@@ -9,11 +9,15 @@
 - [Ejercicio 6](./week1/exercise6/Program.cs)
 
 ## Semana #2
+
 ### Super Heroes
-En una galaxia lejana habitan muchos superhÈroes con habilidades extraordinarias, estos han decidido realizar una competencia entre ellos comparando sus distintos atributos. Para ello, necesitamos crear la clase "SuperHeroe" que nos permita representar a estos poderosos personajes con los atributos nombre (String), fuerza (int), resistencia (int) y
-superpoderes (int).
-Todos los atributos numÈricos deber·n aceptar valores entre 0 y 100; en caso que el setter correspondiente reciba un valor fuera de rango deber· setear el valor lÌmite  correspondiente (si recibe un valor negativo asignar cero, si recibe uno superior a cien, asignar cien).
-El constructor de la clase recibir· todos los valores de sus atributos por par·metro y usar· los setters (todos privados) para validar el rango correcto de los poderes del superhÈroe.
-Se deber· crear un mÈtodo competir() el cual recibir· otro superhÈroe como par·metro y, comparando los  poderes de Èl mismo contra el otro recibido por  par·metro, devolver· TRIUNFO, EMPATE o  DERROTA, dependiendo del resultado. 
-Para triunfar un superhÈroe debe superar al otro en al menos 2 de los 3 Ìtems.
+En una galaxia lejana habitan muchos superh√©roes con habilidades extraordinarias, estos han decidido realizar una competencia entre ellos comparando sus distintos atributos. Para ello, necesitamos crear la clase "SuperHeroe" que nos permita representar a estos poderosos personajes con los atributos nombre (String), fuerza (int), resistencia (int) y superpoderes (int).
+
+Todos los atributos num√©ricos deber√°n aceptar valores entre 0 y 100; en caso que el setter correspondiente reciba un valor fuera de rango deber√° setear el valor l√≠mite  correspondiente (si recibe un valor negativo asignar cero, si recibe uno superior a cien, asignar cien).
+
+El constructor de la clase recibir√° todos los valores de sus atributos por par√°metro y usar√° los setters (todos privados) para validar el rango correcto de los poderes del superh√©roe.
+Se deber√° crear un m√©todo competir() el cual recibir√° otro superh√©roe como par√°metro y, comparando los  poderes de √©l mismo contra el otro recibido por  par√°metro, devolver√° TRIUNFO, EMPATE o  DERROTA, dependiendo del resultado. 
+
+Para triunfar un superh√©roe debe superar al otro en al menos 2 de los 3 √≠tems.
+
 - [Solucion](./week2/Superheroes)
