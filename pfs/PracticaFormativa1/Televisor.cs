@@ -8,8 +8,8 @@ namespace PracticaFormativa1
 {
     internal class Televisor
     {
-        int CANAL_LIMITE_INF = 1;
-        int CANAL_LIMITE_SUP = 150;
+        private int CANAL_LIMITE_INF = 1;
+        private int CANAL_LIMITE_SUP = 150;
 
         private string marca;
         private string modelo;
