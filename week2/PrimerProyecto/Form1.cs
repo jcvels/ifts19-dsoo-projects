@@ -1,8 +1,8 @@
 namespace PrimerProyecto
 {
-    public partial class formLogIn : Form
+    public partial class frmPrincipal : Form
     {
-        public formLogIn()
+        public frmPrincipal()
         {
             InitializeComponent();
         }
