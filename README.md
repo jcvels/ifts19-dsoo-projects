@@ -17,4 +17,4 @@
 - [Manipular clases](./week3/ManipularClases/readme.md)
 
 ## Practicas Formativa 
-- [Práctica Formativa #1](./pfs/pf1/readme.md)
+- [Práctica Formativa #1](./pfs/PracticaFormativa1/readme.md)
