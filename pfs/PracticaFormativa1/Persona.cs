@@ -16,11 +16,13 @@ namespace PracticaFormativa1
             this.nombre = nombre;
             this.domicilio = domicilio;
         }
+
         public string Nombre
         {
             set { this.nombre = value; }
             get { return this.nombre; }
         }
+
         public string Domicilio
         {
             set { this.domicilio = value; }

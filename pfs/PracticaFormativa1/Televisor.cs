@@ -25,30 +25,37 @@ namespace PracticaFormativa1
             this.estado = estado;
             this.canal = canal;
         }
+
         public string Marca 
         {
             get { return marca; }
         }
+
         public string Modelo
         {
             get { return modelo; }
         }
+
         public int Pulgadas
         {
             get { return pulgadas; }
         }
+
         public bool verPrendido()
         {
             return this.estado;
         }
+
         public void cambiarEstado()
         {
             this.estado = !this.estado;
         }
+
         public int obtenerCanalActual()
         {
             return this.canal;
         }
+
         public bool cambiarCanal()
         {
             if (this.verPrendido() == false)
@@ -68,6 +75,7 @@ namespace PracticaFormativa1
                 return true;
             }
         }
+
         public bool cambiarCanal(int value)
         {
             if (this.verPrendido() == false)

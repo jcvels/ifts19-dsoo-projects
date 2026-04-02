@@ -11,20 +11,24 @@ namespace PracticaFormativa1
         private string calle;
         private int numero;
         private string barrio;
+
         public Domicilio(string calle, int numero, string barrio)
         {
             this.calle = calle;
             this.numero = numero;
             this.barrio = barrio;
         }
+        
         public string Calle
         {
             get { return this.calle; }
         }
+        
         public int Numero
         {
             get { return this.numero; }
         }
+        
         public string Barrio
         {
             get { return this.barrio; }
