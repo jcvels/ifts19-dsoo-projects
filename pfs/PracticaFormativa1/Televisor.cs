@@ -91,5 +91,10 @@ namespace PracticaFormativa1
                 return true;
             }
         }
+
+        public override string ToString()
+        {
+            return this.marca + " - " + this.modelo + " -" + this.estado + " - " + this.canal;
+        }
     }
 }

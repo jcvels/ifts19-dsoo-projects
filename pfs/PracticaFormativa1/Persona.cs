@@ -28,5 +28,10 @@ namespace PracticaFormativa1
             set { this.domicilio = value; }
             get { return this.nombre; }
         }
+
+        public override string ToString()
+        {
+            return this.nombre + ", " + this.domicilio.ToString();
+        }
     }
 }

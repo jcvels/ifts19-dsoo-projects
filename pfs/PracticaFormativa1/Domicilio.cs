@@ -33,5 +33,10 @@ namespace PracticaFormativa1
         {
             get { return this.barrio; }
         }
+
+        public override string ToString ()
+        {
+            return this.calle + " " + this.numero + ", " + this.barrio;
+        }
     }
 }
