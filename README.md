@@ -15,6 +15,4 @@
 
 ## Semana #3
 - [Manipular clases](./week3/ManipularClases/readme.md)
-
-## Practicas Formativa 
 - [Práctica Formativa #1](./pfs/PracticaFormativa1/readme.md)
